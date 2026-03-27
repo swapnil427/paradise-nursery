@@ -1,6 +1,6 @@
-# Paradise Nursery
+# e-plantShopping - Paradise Nursery
 
-This is a React + Redux Toolkit project.
+This is the e-plantShopping project for Paradise Nursery built with React + Redux Toolkit.
 
 ## Features
 
@@ -8,6 +8,8 @@ This is a React + Redux Toolkit project.
 - Add to cart
 - Cart management
 - Routing
+- Category-wise product display
+- Dynamic cart quantity updates
 
 ## Tech Stack
 
