@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  display: flex;
+  gap: 16px;
+  padding: 12px 16px;
+  background-color: #d9f5db;
+}
+
+nav a {
+  color: #1f3d1f;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+div {
+  padding: 12px;
+}
+
+button {
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.home {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+    url("https://images.unsplash.com/photo-1416879595882-3373a0480b5b");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  color: white;
+}
